@@ -83,7 +83,7 @@ a, a:hover, a:visited {
 }
 
 .weather {
-    width:60%;
+    width:30%;
     margin-left: auto;
     margin-right:auto;
     -webkit-filter: invert(100%);
