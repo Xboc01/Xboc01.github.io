@@ -86,12 +86,12 @@ a, a:hover, a:visited {
     width:30%;
     padding: 0px 25px;
     -webkit-filter: invert(100%);
-    filter: invert(100%)
+    filter: invert(100%);
 }
 
 .clock{
     line-height: 1.2;    
     font-weight: bold;
     text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
-    font-size: 8vw
+    font-size: 8vw;
 }
