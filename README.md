@@ -23,6 +23,8 @@ To add a section just click on the first icon counting from the left.
 There are a lot of things I would love to improve. Any contribution will be appreciated.
 
 - [ ] Create a better design
+- [ ] Add Location Selection for Weather
+- [ ] Add todo list on the side
 - [x] Refactor code
 - [x] Add or remove sections directly on the website
 
