@@ -14,7 +14,6 @@ h1 {
 
 body {
   font-family: GlacialIndifference;
-  font-size: 1.8em;
   background-color: #191919;
   color: #fff;
 }
@@ -80,4 +79,8 @@ a, a:hover, a:visited {
   font-size: 15px;
   background-color: #1ca550;
   color: #FFFFFF;
+}
+
+.clock{   
+    font-weight: bold;
 }
